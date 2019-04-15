@@ -1,3 +1,13 @@
+Choose an online Jupyter notebook: 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/danielcregg/Practical_RL/coursera) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danielcregg/Practical_RL/blob/coursera)
+
+<!-- 
+# colabNotebook
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/danielcregg/jupyterNotebooks/blob/master/DEED.ipynb)
+-->
+
+
+
 # Practical_RL Fall 2017
 A course on reinforcement learning in the wild.
 Taught on-campus at [HSE](https://cs.hse.ru)(russian) and maintained to be friendly to online students (both english and russian).
